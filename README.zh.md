@@ -1,15 +1,15 @@
-# TradingAgents — 多智能体LLM金融交易框架
+# 📊 GemStox — 股票信号引擎
+### 无噪音。只有数学。
 
-基于大语言模型的多智能体交易系统。已部署的商业应用：**[GemStox — AI股票扫描器](https://gemstox.com)**
+**[https://gemstox.com](https://gemstox.com)** — 99%噪音过滤率的数学验证买卖信号。无需金融学位。
 
-## 🚀 在线试用
-- **[GemStox.com](https://gemstox.com)** — 60秒内扫描10,000+只股票，AI驱动信号，中文界面
-- 28个中文本地化页面，完整中文博客和文档
+## GemStox是什么？
 
-## 功能
-- 实时多市场扫描（美国、欧洲、亚洲）
-- AI集成信号生成
-- 凯利准则仓位管理
-- 14天免费试用
+一个数学验证的信号引擎，将原始市场数据转化为清晰的交易信号。多种策略类别：动量、价值、突破、均值回归。
 
-[English README](README.md) | [GemStox 官网](https://gemstox.com)
+## 定价
+- **Day Pass**: $7 — 24小时完整访问
+- **Pro 月付**: $29/月 — 所有信号，所有市场
+- **Pro 年付**: $199/年 — 节省43%
+
+[免费试用 →](https://gemstox.com)
