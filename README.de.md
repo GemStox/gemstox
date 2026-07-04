@@ -16,13 +16,13 @@ GemStox ist eine mathematisch bewiesene Aktien-Signal-Engine. Sie wandelt Rohmar
 ## Blog — Die Mathematik hinter dem Trading
 | Beitrag | Thema |
 |---|---|
-| [Monte Carlo Simulation in Trading](https://gemstox.com/blog/monte-carlo-simulation-in-trading/) | How math predicts market outcomes |
+| [Monte Carlo Simulation in Trading](https://gemstox.com/blog/monte-carlo-simulation-trading/) | How math predicts market outcomes |
 | [Position Sizing Strategies](https://gemstox.com/blog/position-sizing-strategies/) | Optimal trade size formulas |
 | [Stock Market Noise vs Signal](https://gemstox.com/blog/stock-market-noise-vs-signal/) | Separating random from predictable |
 | [How Stock Signals Work](https://gemstox.com/blog/how-stock-signals-work/) | Mathematical approach to market timing |
 | [Cancel Market Noise](https://gemstox.com/blog/cancel-market-noise/) | Why 99% of alerts are useless |
-| [The Kelly Criterion Explained](https://gemstox.com/blog/the-kelly-criterion-explained/) | Math finds your optimal position size |
-| [Best Stock Scanners 2026](https://gemstox.com/blog/best-stock-scanners-2026/) | What matters in a signal service |
+| [The Kelly Criterion Explained](https://gemstox.com/blog/kelly-criterion/) | Math finds your optimal position size |
+| [Best Stock Scanners 2026](https://gemstox.com/blog/best-stock-scanners/) | What matters in a signal service |
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 weitere](https://gemstox.com/blog/) | DCF-Bewertung, Volatilität, Daytrading, Kreuzvalidierung |
 
