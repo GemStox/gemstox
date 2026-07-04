@@ -5,13 +5,13 @@
 
 ## What is GemStox?
 
-GemStox è un motore di segnali azionari matematicamente provato. Converte i dati grezzi di mercato in chiari segnali di acquisto/vendita — con un tasso di filtro del rumore del 99%. Nessuna laurea in finanza richiesta.
+GemStox è un motore di segnali matematicamente provato con filtro rumore 99%. Nessuna laurea in finanza.
 
-- Classi di strategia multiple — momentum, value, breakout, mean-reversion
-- Filtro rumore 99% — elimina alert inutili, mostra solo setup ad alta probabilità
-- Timing chiaro — entry, stop-loss e take-profit su ogni segnale
-- Dimensionamento Kelly Criterion — dimensione posizione matematicamente ottimale
-- Testato con cross-validation — ogni strategia verificata su dati out-of-sample
+- Momentum, value, breakout, mean-reversion
+- Filtro rumore 99% — solo setup ad alta probabilità
+- Timing chiaro — entry, stop-loss, take-profit
+- Kelly Criterion — dimensione posizione ottimale
+- Cross-validation — ogni strategia verificata
 
 ## Blog — La Matematica Dietro al Trading
 | Articolo | Argomento |
@@ -27,10 +27,10 @@ GemStox è un motore di segnali azionari matematicamente provato. Converte i dat
 | [+6 articoli](https://gemstox.com/blog/) | valutazione DCF, volatilità, day trading, cross-validation |
 
 ## 19 Lingue
-GemStox is fully localized.
 
 ## Confronti
 Come si confronta GemStox:
+
 - [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
 - [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
 - [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation

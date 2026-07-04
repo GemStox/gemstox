@@ -5,13 +5,13 @@
 
 ## What is GemStox?
 
-GemStox là công cụ tín hiệu chứng khoán được chứng minh bằng toán học. Chuyển đổi dữ liệu thị trường thô thành tín hiệu mua/bán rõ ràng — với tỷ lệ lọc nhiễu 99%. Không cần bằng cấp tài chính.
+GemStox là công cụ tín hiệu được chứng minh toán học với bộ lọc nhiễu 99%. Không cần bằng tài chính.
 
-- Nhiều lớp chiến lược — động lượng, giá trị, đột phá, hồi quy trung bình
-- Lọc nhiễu 99% — hủy cảnh báo vô ích, chỉ hiển thị thiết lập xác suất cao
-- Thời điểm mua/bán rõ ràng — điểm vào, stop-loss và take-profit cho mỗi tín hiệu
-- Định cỡ vị thế Kelly Criterion — kích thước vị thế tối ưu toán học
-- Kiểm tra chéo — mỗi chiến lược được xác minh trên dữ liệu ngoài mẫu
+- Động lượng, giá trị, đột phá, hồi quy trung bình
+- Lọc nhiễu 99% — chỉ hiển thị thiết lập xác suất cao
+- Thời điểm rõ ràng — điểm vào, stop-loss, take-profit
+- Kelly Criterion — kích thước vị thế tối ưu
+- Kiểm tra chéo — mỗi chiến lược được xác minh
 
 ## Blog — Toán Học Đằng Sau Giao Dịch
 | Bài viết | Chủ đề |
@@ -24,13 +24,13 @@ GemStox là công cụ tín hiệu chứng khoán được chứng minh bằng t
 | [The Kelly Criterion Explained](https://gemstox.com/blog/kelly-criterion/) | Math finds your optimal position size |
 | [Best Stock Scanners 2026](https://gemstox.com/blog/best-stock-scanners/) | What matters in a signal service |
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
-| [+6 bài viết](https://gemstox.com/blog/) | định giá DCF, biến động, giao dịch trong ngày, kiểm tra chéo |
+| [+6 bài viết](https://gemstox.com/blog/) | định giá DCF, biến động, giao dịch ngày, kiểm tra chéo |
 
 ## 19 Ngôn ngữ
-GemStox is fully localized.
 
 ## So sánh
 GemStox so sánh thế nào:
+
 - [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
 - [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
 - [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation

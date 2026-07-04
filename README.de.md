@@ -5,35 +5,35 @@
 
 ## What is GemStox?
 
-GemStox ist eine mathematisch bewiesene Aktien-Signal-Engine. Sie wandelt Rohmarktdaten in klare Kauf-/Verkaufssignale um — mit 99% Rauschfilterrate. Kein Finanzstudium nötig.
+GemStox ist eine mathematisch bewiesene Aktien-Signal-Engine. Wandelt Rohmarktdaten mit 99% Rauschfilter in klare Kauf-/Verkaufssignale um. Kein Finanzstudium nötig.
 
 - Mehrere Strategieklassen — Momentum, Value, Breakout, Mean-Reversion
 - 99% Rauschfilter — löscht nutzlose Warnungen, zeigt nur hochwahrscheinliche Setups
 - Klare Kauf-/Verkaufszeitpunkte — Einstieg, Stop-Loss und Take-Profit für jedes Signal
-- Kelly-Kriterium-Positionsgröße — mathematisch optimale Positionsgröße für jeden Trade
+- Kelly-Kriterium-Positionsgröße — mathematisch optimale Größe für jeden Trade
 - Kreuzvalidiert — jede Strategie an Out-of-Sample-Daten getestet
 
 ## Blog — Die Mathematik hinter dem Trading
 | Beitrag | Thema |
 |---|---|
-| [Monte Carlo Simulation in Trading](https://gemstox.com/blog/monte-carlo-simulation-trading/) | How math predicts market outcomes |
-| [Position Sizing Strategies](https://gemstox.com/blog/position-sizing-strategies/) | Optimal trade size formulas |
-| [Stock Market Noise vs Signal](https://gemstox.com/blog/stock-market-noise-vs-signal/) | Separating random from predictable |
-| [How Stock Signals Work](https://gemstox.com/blog/how-stock-signals-work/) | Mathematical approach to market timing |
-| [Cancel Market Noise](https://gemstox.com/blog/cancel-market-noise/) | Why 99% of alerts are useless |
-| [The Kelly Criterion Explained](https://gemstox.com/blog/kelly-criterion/) | Math finds your optimal position size |
-| [Best Stock Scanners 2026](https://gemstox.com/blog/best-stock-scanners/) | What matters in a signal service |
-| [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
+| [Monte-Carlo-Simulation im Trading](https://gemstox.com/blog/monte-carlo-simulation-trading/) | Wie Mathematik Marktergebnisse vorhersagt |
+| [Positionsgrößen-Strategien](https://gemstox.com/blog/position-sizing-strategies/) | Optimale Handelsgrößen-Formeln |
+| [Marktrauschen vs Signal](https://gemstox.com/blog/stock-market-noise-vs-signal/) | Zufälliges von Vorhersagbarem trennen |
+| [Wie Aktiensignale funktionieren](https://gemstox.com/blog/how-stock-signals-work/) | Mathematischer Ansatz zum Markt-Timing |
+| [Marktrauschen eliminieren](https://gemstox.com/blog/cancel-market-noise/) | Warum 99% der Alarme nutzlos sind |
+| [Kelly-Kriterium erklärt](https://gemstox.com/blog/kelly-criterion/) | Mathematik findet die optimale Position |
+| [Beste Aktienscanner 2026](https://gemstox.com/blog/best-stock-scanners/) | Was bei einem Signaldienst wirklich zählt |
+| [Risiko-Ertrags-Verhältnis](https://gemstox.com/blog/risk-reward-ratio/) | Die eine Zahl, die jeder Trader braucht |
 | [+6 weitere](https://gemstox.com/blog/) | DCF-Bewertung, Volatilität, Daytrading, Kreuzvalidierung |
 
-## 19 Sprachen
-GemStoxは完全ローカライズ: العربية, Deutsch, Español, Français, हिन्दी, Bahasa Indonesia, Italiano, 日本語, 한국어, Nederlands, Polski, Português, Русский, Svenska, ไทย, Türkçe, Tiếng Việt, 中文。
+## 19 Sprachen: English, 中文, 日本語, 한국어, Русский, العربية, Deutsch, Français, Español, Português, हिन्दी, ไทย, Türkçe, Tiếng Việt, Bahasa Indonesia, Italiano, Nederlands, Polski, Svenska
 
 ## Vergleiche
 So schlägt sich GemStox:
-- [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
-- [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
-- [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation
+
+- [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — KI-Signale vs Holly AI
+- [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Echtzeit vs verzögertes Screening
+- [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal-Engine vs Chart-Automatisierung
 
 ---
 

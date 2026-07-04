@@ -5,13 +5,13 @@
 
 ## What is GemStox?
 
-GemStox adalah mesin sinyal saham yang terbukti secara matematis. Mengubah data pasar mentah menjadi sinyal beli/jual yang jelas — dengan tingkat filter noise 99%. Tidak perlu gelar keuangan.
+GemStox adalah mesin sinyal saham yang terbukti secara matematis dengan filter noise 99%. Tanpa gelar keuangan.
 
-- Beberapa kelas strategi — momentum, value, breakout, mean-reversion
-- Filter noise 99% — membatalkan alert tidak berguna, hanya menampilkan setup probabilitas tinggi
-- Timing beli/jual jelas — entry, stop-loss, dan take-profit di setiap sinyal
-- Position sizing Kelly Criterion — ukuran posisi optimal matematis untuk setiap trade
-- Teruji cross-validation — setiap strategi diverifikasi pada data out-of-sample
+- Momentum, value, breakout, mean-reversion
+- Filter noise 99% — hanya setup probabilitas tinggi
+- Timing jelas — entry, stop-loss, take-profit
+- Kelly Criterion — ukuran posisi optimal
+- Cross-validation — setiap strategi diverifikasi
 
 ## Blog — Matematika di Balik Trading
 | Artikel | Topik |
@@ -27,10 +27,10 @@ GemStox adalah mesin sinyal saham yang terbukti secara matematis. Mengubah data 
 | [+6 artikel lagi](https://gemstox.com/blog/) | valuasi DCF, volatilitas, day trading, cross-validation |
 
 ## 19 Bahasa
-GemStox is fully localized.
 
 ## Perbandingan
 Bagaimana GemStox dibandingkan:
+
 - [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
 - [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
 - [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation

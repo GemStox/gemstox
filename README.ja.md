@@ -5,35 +5,35 @@
 
 ## What is GemStox?
 
-GemStoxは数学的に証明された株式シグナルエンジンです。生の市場データを明確な売買シグナルに変換し、99%のノイズフィルター率を実現。金融の学位は不要です。
+GemStoxは数学的に証明された株式シグナルエンジンです。生の市場データを99%のノイズフィルターでクリアな売買シグナルに変換します。金融の学位は不要です。
 
 - 複数の戦略クラス — モメンタム、バリュー、ブレイクアウト、ミーンリバージョン
-- 99%ノイズフィルター — 無駄なアラートを除去し、高確率のセットアップのみを表示
-- 明確な売買タイミング — 各シグナルにエントリー、ストップロス、テイクプロフィットを表示
-- ケリー基準によるポジションサイジング — 各トレードの数学的に最適なポジションサイズ
-- クロスバリデーション検証済み — 全ての戦略をサンプル外データで検証
+- 99%ノイズフィルター — 無駄なアラートを除去し高確率セットアップのみ表示
+- 明確な売買タイミング — 各シグナルにエントリー、ストップロス、テイクプロフィット
+- ケリー基準による最適ポジションサイズ
+- クロスバリデーション済み — 全戦略をサンプル外データで検証
 
 ## ブログ — トレードの背後にある数学
 | 記事 | トピック |
 |---|---|
-| [Monte Carlo Simulation in Trading](https://gemstox.com/blog/monte-carlo-simulation-trading/) | How math predicts market outcomes |
-| [Position Sizing Strategies](https://gemstox.com/blog/position-sizing-strategies/) | Optimal trade size formulas |
-| [Stock Market Noise vs Signal](https://gemstox.com/blog/stock-market-noise-vs-signal/) | Separating random from predictable |
-| [How Stock Signals Work](https://gemstox.com/blog/how-stock-signals-work/) | Mathematical approach to market timing |
-| [Cancel Market Noise](https://gemstox.com/blog/cancel-market-noise/) | Why 99% of alerts are useless |
-| [The Kelly Criterion Explained](https://gemstox.com/blog/kelly-criterion/) | Math finds your optimal position size |
-| [Best Stock Scanners 2026](https://gemstox.com/blog/best-stock-scanners/) | What matters in a signal service |
-| [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
+| [モンテカルロ・シミュレーション取引](https://gemstox.com/blog/monte-carlo-simulation-trading/) | 数学が市場の結果を予測する方法 |
+| [ポジションサイジング戦略](https://gemstox.com/blog/position-sizing-strategies/) | 最適な取引サイズの計算式 |
+| [市場ノイズvsシグナル](https://gemstox.com/blog/stock-market-noise-vs-signal/) | ランダムと予測可能を区別する |
+| [株式シグナルの仕組み](https://gemstox.com/blog/how-stock-signals-work/) | 市場タイミングへの数学的アプローチ |
+| [市場ノイズをキャンセル](https://gemstox.com/blog/cancel-market-noise/) | 99%のアラートが無意味な理由 |
+| [ケリー基準の解説](https://gemstox.com/blog/kelly-criterion/) | 数学が最適ポジションを見つける |
+| [2026年ベスト株スキャナー](https://gemstox.com/blog/best-stock-scanners/) | シグナルサービスで本当に重要なこと |
+| [リスク・リワード比率](https://gemstox.com/blog/risk-reward-ratio/) | 全トレーダーが知るべき一つの数字 |
 | [+6記事](https://gemstox.com/blog/) | DCF評価、ボラティリティ、デイトレード、クロスバリデーション |
 
-## 19言語
-GemStoxは完全ローカライズ: العربية, Deutsch, Español, Français, हिन्दी, Bahasa Indonesia, Italiano, 日本語, 한국어, Nederlands, Polski, Português, Русский, Svenska, ไทย, Türkçe, Tiếng Việt, 中文。
+## 19言語：English、中文、日本語、한국어、Русский、العربية、Deutsch、Français、Español、Português、हिन्दी、ไทย、Türkçe、Tiếng Việt、Bahasa Indonesia、Italiano、Nederlands、Polski、Svenska
 
 ## 比較
 GemStoxの比較：
-- [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
-- [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
-- [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation
+
+- [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AIシグナル vs Holly AI
+- [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — リアルタイム vs 遅延スクリーニング
+- [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — シグナルエンジン vs チャート自動化
 
 ---
 

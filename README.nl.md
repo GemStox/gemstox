@@ -5,13 +5,13 @@
 
 ## What is GemStox?
 
-GemStox is een wiskundig bewezen aandelensignaal-engine. Zet ruwe marktdata om in duidelijke koop-/verkoopsignalen — met 99% ruisfiltering. Geen financieel diploma nodig.
+GemStox is een wiskundig bewezen signaal-engine met 99% ruisfilter. Geen financieel diploma nodig.
 
-- Meerdere strategieklassen — momentum, waarde, breakout, mean-reversion
-- 99% ruisfilter — verwijdert nutteloze alerts, toont alleen kansen met hoge waarschijnlijkheid
-- Duidelijke timing — entry, stop-loss en take-profit bij elk signaal
-- Kelly Criterion positiebepaling — wiskundig optimale positiegrootte
-- Cross-validatie getest — elke strategie geverifieerd op out-of-sample data
+- Momentum, waarde, breakout, mean-reversion
+- 99% ruisfilter — alleen hoogstwaarschijnlijke setups
+- Duidelijke timing — entry, stop-loss, take-profit
+- Kelly Criterion — optimale positiegrootte
+- Cross-validatie — elke strategie geverifieerd
 
 ## Blog — De Wiskunde Achter Trading
 | Artikel | Onderwerp |
@@ -27,10 +27,10 @@ GemStox is een wiskundig bewezen aandelensignaal-engine. Zet ruwe marktdata om i
 | [+6 artikelen](https://gemstox.com/blog/) | DCF-waardering, volatiliteit, daytrading, cross-validatie |
 
 ## 19 Talen
-GemStox is fully localized.
 
 ## Vergelijkingen
 Hoe GemStox zich verhoudt:
+
 - [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
 - [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
 - [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation

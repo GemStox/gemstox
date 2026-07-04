@@ -5,13 +5,13 @@
 
 ## What is GemStox?
 
-GemStox matematiksel olarak kanıtlanmış bir hisse senedi sinyal motorudur. Ham piyasa verilerini net alım/satım sinyallerine dönüştürür — %99 gürültü filtreleme oranıyla. Finans diploması gerekmez.
+GemStox, %99 gürültü filtrelemeli matematiksel sinyal motorudur. Finans diploması gerekmez.
 
-- Çoklu strateji sınıfları — momentum, değer, kırılma, ortalamaya dönüş
-- %99 gürültü filtresi — gereksiz uyarıları iptal eder, sadece yüksek olasılıklı kurulumları gösterir
-- Net alım/satım zamanlaması — her sinyalde giriş, stop-loss ve take-profit
-- Kelly Kriteri pozisyon boyutlandırma — her işlem için matematiksel olarak optimal pozisyon
-- Çapraz doğrulama testli — her strateji örnek dışı verilerle doğrulanmıştır
+- Momentum, değer, kırılma, ortalamaya dönüş
+- %99 gürültü filtresi — sadece yüksek olasılıklı kurulumlar
+- Net zamanlama — giriş, stop-loss, take-profit
+- Kelly Kriteri — optimal pozisyon boyutu
+- Çapraz doğrulama — her strateji doğrulandı
 
 ## Blog — Trading'in Arkasındaki Matematik
 | Yazı | Konu |
@@ -27,10 +27,10 @@ GemStox matematiksel olarak kanıtlanmış bir hisse senedi sinyal motorudur. Ha
 | [+6 yazı](https://gemstox.com/blog/) | DCF değerleme, oynaklık, günlük trading, çapraz doğrulama |
 
 ## 19 Dil
-GemStox is fully localized.
 
 ## Karşılaştırmalar
 GemStox nasıl karşılaştırılır:
+
 - [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
 - [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
 - [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation

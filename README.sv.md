@@ -5,13 +5,13 @@
 
 ## What is GemStox?
 
-GemStox är en matematiskt bevisad aktiesignalmotor. Omvandlar rå marknadsdata till tydliga köp-/säljsignaler — med 99% brusfiltrering. Ingen finansexamen behövs.
+GemStox är en matematiskt bevisad signalmotor med 99% brusfiltrering. Ingen finansexamen behövs.
 
-- Flera strategiklasser — momentum, värde, breakout, mean-reversion
-- 99% brusfilter — tar bort värdelösa varningar, visar endast högsannolika upplägg
-- Tydlig timing — entry, stop-loss och take-profit för varje signal
-- Kelly Criterion positionsstorlek — matematiskt optimal positionsstorlek
-- Korsvalideringstestad — varje strategi verifierad på out-of-sample-data
+- Momentum, värde, breakout, mean-reversion
+- 99% brusfilter — endast högsannolika upplägg
+- Tydlig timing — entry, stop-loss, take-profit
+- Kelly Criterion — optimal positionsstorlek
+- Korsvalidering — varje strategi verifierad
 
 ## Blogg — Matematiken Bakom Trading
 | Inlägg | Ämne |
@@ -27,10 +27,10 @@ GemStox är en matematiskt bevisad aktiesignalmotor. Omvandlar rå marknadsdata 
 | [+6 inlägg](https://gemstox.com/blog/) | DCF-värdering, volatilitet, daytrading, korsvalidering |
 
 ## 19 Språk
-GemStox is fully localized.
 
 ## Jämförelser
 Så står sig GemStox:
+
 - [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
 - [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
 - [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation

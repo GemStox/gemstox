@@ -5,13 +5,13 @@
 
 ## What is GemStox?
 
-GemStox เป็นเอ็นจิ้นสัญญาณหุ้นที่พิสูจน์ทางคณิตศาสตร์ แปลงข้อมูลตลาดดิบเป็นสัญญาณซื้อ/ขายที่ชัดเจน — ด้วยอัตรากรองเสียงรบกวน 99% ไม่จำเป็นต้องมีปริญญาด้านการเงิน
+GemStox เป็นเอ็นจิ้นสัญญาณหุ้นที่พิสูจน์ทางคณิตศาสตร์ด้วยตัวกรอง noise 99% ไม่จำเป็นต้องมีปริญญาการเงิน
 
-- กลยุทธ์หลายประเภท — โมเมนตัม, มูลค่า, เบรกเอาท์, การกลับสู่ค่าเฉลี่ย
-- กรองเสียงรบกวน 99% — ยกเลิกการแจ้งเตือนที่ไม่มีประโยชน์ แสดงเฉพาะการตั้งค่าที่มีความน่าจะเป็นสูง
-- จังหวะซื้อ/ขายชัดเจน — จุดเข้า, stop-loss และ take-profit ทุกสัญญาณ
-- การกำหนดขนาดตำแหน่งแบบ Kelly Criterion — ขนาดตำแหน่งที่เหมาะสมทางคณิตศาสตร์
-- ทดสอบด้วย cross-validation — ทุกกลยุทธ์ตรวจสอบด้วยข้อมูลนอกตัวอย่าง
+- โมเมนตัม, มูลค่า, เบรกเอาท์, การกลับสู่ค่าเฉลี่ย
+- กรอง noise 99% — แสดงเฉพาะโอกาสความน่าจะเป็นสูง
+- จังหวะชัดเจน — จุดเข้า, stop-loss, take-profit
+- Kelly Criterion — ขนาดตำแหน่งที่เหมาะสม
+- Cross-validation — ทุกกลยุทธ์ผ่านการตรวจสอบ
 
 ## บล็อก — คณิตศาสตร์เบื้องหลังการเทรด
 | โพสต์ | หัวข้อ |
@@ -24,13 +24,13 @@ GemStox เป็นเอ็นจิ้นสัญญาณหุ้นที
 | [The Kelly Criterion Explained](https://gemstox.com/blog/kelly-criterion/) | Math finds your optimal position size |
 | [Best Stock Scanners 2026](https://gemstox.com/blog/best-stock-scanners/) | What matters in a signal service |
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
-| [+6 โพสต์](https://gemstox.com/blog/) | การประเมินมูลค่า DCF, ความผันผวน, การเทรดรายวัน, การตรวจสอบข้าม |
+| [+6 โพสต์](https://gemstox.com/blog/) | การประเมิน DCF, ความผันผวน, เดย์เทรด, ครอสวาลิเดชัน |
 
 ## 19 ภาษา
-GemStox is fully localized.
 
 ## การเปรียบเทียบ
 GemStox เปรียบเทียบอย่างไร:
+
 - [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
 - [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
 - [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation

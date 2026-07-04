@@ -5,7 +5,7 @@
 
 ## What is GemStox?
 
-GemStox é um motor de sinais de ações matematicamente comprovado. Converte dados brutos do mercado em sinais claros de compra/venda — com taxa de filtro de ruído de 99%. Sem necessidade de diploma em finanças.
+GemStox é um motor de sinais de ações matematicamente comprovado. Converte dados brutos do mercado em sinais claros com filtro de ruído de 99%. Sem necessidade de diploma em finanças.
 
 - Múltiplas classes de estratégia — momentum, valor, breakout, reversão à média
 - Filtro de ruído de 99% — elimina alertas inúteis, mostra apenas configurações prováveis
@@ -16,24 +16,24 @@ GemStox é um motor de sinais de ações matematicamente comprovado. Converte da
 ## Blog — A matemática por trás do trading
 | Post | Tópico |
 |---|---|
-| [Monte Carlo Simulation in Trading](https://gemstox.com/blog/monte-carlo-simulation-trading/) | How math predicts market outcomes |
-| [Position Sizing Strategies](https://gemstox.com/blog/position-sizing-strategies/) | Optimal trade size formulas |
-| [Stock Market Noise vs Signal](https://gemstox.com/blog/stock-market-noise-vs-signal/) | Separating random from predictable |
-| [How Stock Signals Work](https://gemstox.com/blog/how-stock-signals-work/) | Mathematical approach to market timing |
-| [Cancel Market Noise](https://gemstox.com/blog/cancel-market-noise/) | Why 99% of alerts are useless |
-| [The Kelly Criterion Explained](https://gemstox.com/blog/kelly-criterion/) | Math finds your optimal position size |
-| [Best Stock Scanners 2026](https://gemstox.com/blog/best-stock-scanners/) | What matters in a signal service |
-| [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
+| [Simulação Monte Carlo no trading](https://gemstox.com/blog/monte-carlo-simulation-trading/) | Como a matemática prevê o mercado |
+| [Estratégias de dimensionamento](https://gemstox.com/blog/position-sizing-strategies/) | Fórmulas ótimas de tamanho de posição |
+| [Ruído do mercado vs sinal](https://gemstox.com/blog/stock-market-noise-vs-signal/) | Separando aleatório do previsível |
+| [Como funcionam os sinais de ações](https://gemstox.com/blog/how-stock-signals-work/) | Abordagem matemática do timing de mercado |
+| [Cancelar o ruído do mercado](https://gemstox.com/blog/cancel-market-noise/) | Por que 99% dos alertas são inúteis |
+| [O Critério de Kelly explicado](https://gemstox.com/blog/kelly-criterion/) | A matemática encontra a posição ideal |
+| [Melhores scanners de ações 2026](https://gemstox.com/blog/best-stock-scanners/) | O que realmente importa em um serviço |
+| [Relação risco/retorno](https://gemstox.com/blog/risk-reward-ratio/) | O único número que todo trader precisa |
 | [+6 posts](https://gemstox.com/blog/) | Avaliação DCF, volatilidade, day trading, validação cruzada |
 
-## 19 idiomas
-GemStoxは完全ローカライズ: العربية, Deutsch, Español, Français, हिन्दी, Bahasa Indonesia, Italiano, 日本語, 한국어, Nederlands, Polski, Português, Русский, Svenska, ไทย, Türkçe, Tiếng Việt, 中文。
+## 19 idiomas: English, 中文, 日本語, 한국어, Русский, العربية, Deutsch, Français, Español, Português, हिन्दी, ไทย, Türkçe, Tiếng Việt, Bahasa Indonesia, Italiano, Nederlands, Polski, Svenska
 
 ## Comparações
 Como o GemStox se compara:
-- [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — AI signals vs Holly AI
-- [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Real-time vs delayed screening
-- [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Signal engine vs chart automation
+
+- [GemStox vs Trade Ideas](https://gemstox.com/vs/trade-ideas/) — Sinais IA vs Holly AI
+- [GemStox vs Finviz](https://gemstox.com/vs/finviz/) — Tempo real vs dados atrasados
+- [GemStox vs TrendSpider](https://gemstox.com/vs/trendspider/) — Motor de sinais vs automação
 
 ---
 
