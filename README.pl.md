@@ -26,14 +26,6 @@ GemStox to matematycznie udowodniony silnik sygnałów giełdowych. Przekształc
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 artykułów](https://gemstox.com/blog/) | wycena DCF, zmienność, day trading, walidacja krzyżowa |
 
-## Ceny
-| Plan | Cena | Korzyści |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[Zobacz plany →](https://gemstox.com/pricing/)
-
 ## 19 Języków
 GemStox is fully localized.
 

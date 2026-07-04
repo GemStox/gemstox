@@ -26,14 +26,6 @@ GemStox là công cụ tín hiệu chứng khoán được chứng minh bằng t
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 bài viết](https://gemstox.com/blog/) | định giá DCF, biến động, giao dịch trong ngày, kiểm tra chéo |
 
-## Giá
-| Gói | Giá | Lợi ích |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[Xem gói →](https://gemstox.com/pricing/)
-
 ## 19 Ngôn ngữ
 GemStox is fully localized.
 

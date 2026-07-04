@@ -26,14 +26,6 @@ GemStox เป็นเอ็นจิ้นสัญญาณหุ้นที
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 โพสต์](https://gemstox.com/blog/) | การประเมินมูลค่า DCF, ความผันผวน, การเทรดรายวัน, การตรวจสอบข้าม |
 
-## ราคา
-| แพ็คเกจ | ราคา | สิ่งที่ได้รับ |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[ดูแพ็คเกจ →](https://gemstox.com/pricing/)
-
 ## 19 ภาษา
 GemStox is fully localized.
 

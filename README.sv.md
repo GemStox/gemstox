@@ -26,14 +26,6 @@ GemStox är en matematiskt bevisad aktiesignalmotor. Omvandlar rå marknadsdata 
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 inlägg](https://gemstox.com/blog/) | DCF-värdering, volatilitet, daytrading, korsvalidering |
 
-## Priser
-| Plan | Pris | Förmåner |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[Se planer →](https://gemstox.com/pricing/)
-
 ## 19 Språk
 GemStox is fully localized.
 

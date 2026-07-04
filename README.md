@@ -33,16 +33,6 @@ GemStox is a **mathematically proven stock signal engine**. It converts raw mark
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 more posts](https://gemstox.com/blog/) | DCF valuation, volatility, day trading, cross-validation |
 
-## Pricing
-
-| Plan | Price | What you get |
-|---|---|---|
-| **Day Pass** | $7 | Full access for 24 hours |
-| **Monthly Pro** | $29/mo | All signals, all markets, 14-day free trial |
-| **Annual Pro** | $199/yr | Save 43%, same features as Monthly |
-
-[See plans →](https://gemstox.com/pricing/)
-
 ## 19 Languages
 
 GemStox is fully localized: English, 中文, 日本語, 한국어, Русский, العربية, Deutsch, Français, Español, Português, हिन्दी, ไทย, Türkçe, Tiếng Việt, Bahasa Indonesia, Italiano, Nederlands, Polski, Svenska.

@@ -26,14 +26,6 @@ GemStox adalah mesin sinyal saham yang terbukti secara matematis. Mengubah data 
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 artikel lagi](https://gemstox.com/blog/) | valuasi DCF, volatilitas, day trading, cross-validation |
 
-## Harga
-| Paket | Harga | Yang didapat |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[Lihat paket →](https://gemstox.com/pricing/)
-
 ## 19 Bahasa
 GemStox is fully localized.
 

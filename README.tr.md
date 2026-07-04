@@ -26,14 +26,6 @@ GemStox matematiksel olarak kanıtlanmış bir hisse senedi sinyal motorudur. Ha
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 yazı](https://gemstox.com/blog/) | DCF değerleme, oynaklık, günlük trading, çapraz doğrulama |
 
-## Fiyatlandırma
-| Plan | Fiyat | Avantajlar |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[Planları gör →](https://gemstox.com/pricing/)
-
 ## 19 Dil
 GemStox is fully localized.
 

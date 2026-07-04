@@ -26,14 +26,6 @@ GemStox هو محرك إشارات أسهم مثبت رياضياً. يحول ب
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 مقالات](https://gemstox.com/blog/) | تقييم DCF، التقلب، التداول اليومي، التحقق المتبادل |
 
-## الأسعار
-| الخطة | السعر | ما تحصل عليه |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[عرض الخطط →](https://gemstox.com/pricing/)
-
 ## 19 لغة
 GemStoxは完全ローカライズ: العربية, Deutsch, Español, Français, हिन्दी, Bahasa Indonesia, Italiano, 日本語, 한국어, Nederlands, Polski, Português, Русский, Svenska, ไทย, Türkçe, Tiếng Việt, 中文。
 

@@ -26,14 +26,6 @@ GemStox è un motore di segnali azionari matematicamente provato. Converte i dat
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 articoli](https://gemstox.com/blog/) | valutazione DCF, volatilità, day trading, cross-validation |
 
-## Prezzi
-| Piano | Prezzo | Vantaggi |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[Vedi piani →](https://gemstox.com/pricing/)
-
 ## 19 Lingue
 GemStox is fully localized.
 

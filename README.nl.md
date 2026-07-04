@@ -26,14 +26,6 @@ GemStox is een wiskundig bewezen aandelensignaal-engine. Zet ruwe marktdata om i
 | [Risk-Reward Ratio](https://gemstox.com/blog/risk-reward-ratio/) | The one number every trader needs |
 | [+6 artikelen](https://gemstox.com/blog/) | DCF-waardering, volatiliteit, daytrading, cross-validatie |
 
-## Prijzen
-| Abonnement | Prijs | Voordelen |
-|---|---|---|
-| Day Pass | $7 | Full access for 24 hours |
-| Monthly Pro | $29/mo | All signals, all markets, 14-day free trial |
-| Annual Pro | $199/yr | Save 43%, same features as Monthly |
-[Abonnementen bekijken →](https://gemstox.com/pricing/)
-
 ## 19 Talen
 GemStox is fully localized.
 
